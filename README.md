@@ -1,2 +1,2 @@
-# ProvaQGS
-Prova de QGS
+# ProvaGQS
+Prova de GQS
